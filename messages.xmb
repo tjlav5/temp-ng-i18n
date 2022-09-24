@@ -21,5 +21,6 @@
 <!ELEMENT ex (#PCDATA)>
 ]>
 <messagebundle>
-  <msg id="2597221933847186549" desc="title"><source>src/app/app.component.html:475</source>Hello <ph name="START_BOLD_TEXT"/>world!<ph name="CLOSE_BOLD_TEXT"/></msg>
+  <msg id="2597221933847186549" desc="title"><source>src/app/app.component.html:0</source>Hello <ph name="START_BOLD_TEXT"/>world!<ph name="CLOSE_BOLD_TEXT"/></msg>
+  <msg id="436663750838964890" desc="title"><source>src/app/app.component.html:1</source>Hello <ph name="START_BOLD_TEXT"/><ph name="INTERPOLATION"/><ph name="CLOSE_BOLD_TEXT"/></msg>
 </messagebundle>
